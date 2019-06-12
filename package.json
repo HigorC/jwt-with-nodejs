@@ -4,7 +4,7 @@
   "description": "",
   "main": "server.js",
   "scripts": {
-    "test": "jasmine-node spec",
+    "test": "jasmine-node spec --forceexit",
     "start": "node server.js"
   },
   "keywords": [],
@@ -15,5 +15,10 @@
     "jasmine-node": "^3.0.0",
     "jsonwebtoken": "^8.5.1",
     "request": "^2.88.0"
+  },
+  "devDependencies": {
+    "karma": "^4.1.0",
+    "karma-firefox-launcher": "^1.1.0",
+    "karma-jasmine": "^2.0.1"
   }
 }
