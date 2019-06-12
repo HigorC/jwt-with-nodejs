@@ -1,6 +1,6 @@
-## Tokens JWT com node.js
-
 [![Build Status](https://travis-ci.com/HigorC/jwt-with-nodejs.svg?branch=master)](https://travis-ci.com/HigorC/jwt-with-nodejs)
+
+# Tokens JWT com node.js
 
 Criação e validação de tokens JWT utilizando node.js, mais especificamente a biblioteca [jsonwebtoken].
 
