@@ -16,6 +16,6 @@ node serve.js
 
 ### Utilização
 
-Faça uma requisição GET a rota [/createTokenJwt], que retornará o Token gerado.
+Faça uma requisição GET a rota [/createTokenJwt], que retornará o Token gerado;
 
 Faça uma requisição a rota [/itWorksWithToken] passando o Token recebido no header Authorization.
